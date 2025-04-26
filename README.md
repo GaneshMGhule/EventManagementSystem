@@ -147,9 +147,3 @@ event-management-system/
 
 
 
-> 📢 Make sure you create a `/snapshots` and a `/screenshots` folder, upload your `.png` files inside, and commit them.
-
----
-
-Would you also like me to show you a simple **Badges** section at the top (like "Built with Angular", "License: MIT", "Version 1.0") to make your GitHub project look even cooler? 🚀✨  
-(Really easy to add!)
