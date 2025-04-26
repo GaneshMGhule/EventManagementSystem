@@ -93,15 +93,18 @@ The Event Management System is a web application built with Angular that allows 
   <br><b>1) Home Page</b>
 </p>
 
-<p align="center">
-  <img src="https://github.com/GaneshMGhule/EventManagementSystem/blob/main/ss/Added%20Event.jpg" width="700" alt="patientsrecords"/>
-  <br><b>3) PatientsRecords</b>
-</p>
 
 <p align="center">
-  <img src="https://github.com/GaneshMGhule/EventManagementSystem/blob/main/ss/listevent.jpg" width="700" alt="List Event"/>
+  <img src="https://github.com/GaneshMGhule/EventManagementSystem/blob/main/ss/Added%20Event.jpg" width="700" alt="patientsrecords"/>
+  <br><b>2) Add Event</b>
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/GaneshMGhule/EventManagementSystem/blob/main/ss/List%20of%20event.jpg" width="700" alt="List Event"/>
   <br><b>3) List Of Event</b>
 </p>
+
 
 <p align="center">
   <img src="https://github.com/GaneshMGhule/EventManagementSystem/blob/main/ss/update.jpg" width="700" alt="Update"/>
